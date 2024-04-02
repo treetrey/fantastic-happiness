@@ -35,8 +35,11 @@
   "name":"Twin Stick Shooter",
   "resources":[
     {"id":{"name":"obj_RedBlock","path":"objects/obj_RedBlock/obj_RedBlock.yy",},},
+    {"id":{"name":"obj_WhiteBlock","path":"objects/obj_WhiteBlock/obj_WhiteBlock.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_RedBlock","path":"sprites/spr_RedBlock/spr_RedBlock.yy",},},
+    {"id":{"name":"spr_WhiteBlock","path":"sprites/spr_WhiteBlock/spr_WhiteBlock.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

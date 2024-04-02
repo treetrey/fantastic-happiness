@@ -16,5 +16,9 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_WhiteBlock","order":1,"path":"objects/obj_WhiteBlock/obj_WhiteBlock.yy",},
+    {"name":"spr_WhiteBlock","order":1,"path":"sprites/spr_WhiteBlock/spr_WhiteBlock.yy",},
+    {"name":"Sprite3","order":16,"path":"sprites/Sprite3/Sprite3.yy",},
+  ],
 }
