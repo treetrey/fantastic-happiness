@@ -18,7 +18,9 @@ if place_meeting(x, y + _yinput, obj_WallTile)
 	_yinput = 0;
 }
 
-
 // Moving the player
 x += _xinput;
 y += _yinput;
+
+//Direction of the player
+my_dir = point_direction(0, 0, _xinput, _yinput);
