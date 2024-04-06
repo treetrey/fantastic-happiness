@@ -1,6 +1,9 @@
 {
   "FolderOrderSettings":[
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
+    {"name":"Entity","order":16,"path":"folders/Entity.yy",},
+    {"name":"Enemies","order":1,"path":"folders/Entity/Enemies.yy",},
+    {"name":"Control Group","order":2,"path":"folders/Entity/Control Group.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
@@ -17,8 +20,17 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_Button_Options","order":3,"path":"objects/obj_Button_Options/obj_Button_Options.yy",},
+    {"name":"obj_Button_par","order":1,"path":"objects/obj_Button_par/obj_Button_par.yy",},
+    {"name":"obj_Button_Play","order":2,"path":"objects/obj_Button_Play/obj_Button_Play.yy",},
+    {"name":"obj_Button_Quit","order":4,"path":"objects/obj_Button_Quit/obj_Button_Quit.yy",},
+    {"name":"obj_Enemy_par","order":1,"path":"objects/obj_Enemy_par/obj_Enemy_par.yy",},
     {"name":"obj_WhiteBlock","order":1,"path":"objects/obj_WhiteBlock/obj_WhiteBlock.yy",},
+    {"name":"obj_Pause","order":5,"path":"objects/obj_Pause/obj_Pause.yy",},
+    {"name":"EnemyTestRoom","order":1,"path":"rooms/EnemyTestRoom/EnemyTestRoom.yy",},
+    {"name":"Menu","order":2,"path":"rooms/Menu/Menu.yy",},
+    {"name":"spr_Button","order":3,"path":"sprites/spr_Button/spr_Button.yy",},
+    {"name":"spr_Enemy1","order":2,"path":"sprites/spr_Enemy1/spr_Enemy1.yy",},
     {"name":"spr_WhiteBlock","order":1,"path":"sprites/spr_WhiteBlock/spr_WhiteBlock.yy",},
-    {"name":"Sprite3","order":16,"path":"sprites/Sprite3/Sprite3.yy",},
   ],
 }
