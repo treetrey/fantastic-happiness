@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_RedBlock",
+  "%Name":"obj_WallTile",
   "eventList":[],
   "managed":true,
-  "name":"obj_RedBlock",
+  "name":"obj_WallTile",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"spr_RedBlock",
-    "path":"sprites/spr_RedBlock/spr_RedBlock.yy",
+    "name":"spr_GreyWallTile",
+    "path":"sprites/spr_GreyWallTile/spr_GreyWallTile.yy",
   },
   "spriteMaskId":null,
   "visible":true,
