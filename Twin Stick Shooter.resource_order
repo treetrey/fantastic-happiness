@@ -17,7 +17,11 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_GreyWallTorchTile","order":3,"path":"objects/obj_GreyWallTorchTile/obj_GreyWallTorchTile.yy",},
+    {"name":"obj_WallTile","order":2,"path":"objects/obj_WallTile/obj_WallTile.yy",},
     {"name":"obj_WhiteBlock","order":1,"path":"objects/obj_WhiteBlock/obj_WhiteBlock.yy",},
+    {"name":"spr_GreyWallTile","order":2,"path":"sprites/spr_GreyWallTile/spr_GreyWallTile.yy",},
+    {"name":"spr_GreyWallTorchTile","order":3,"path":"sprites/spr_GreyWallTorchTile/spr_GreyWallTorchTile.yy",},
     {"name":"spr_WhiteBlock","order":1,"path":"sprites/spr_WhiteBlock/spr_WhiteBlock.yy",},
     {"name":"Sprite3","order":16,"path":"sprites/Sprite3/Sprite3.yy",},
   ],

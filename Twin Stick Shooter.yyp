@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,9 +34,13 @@
   },
   "name":"Twin Stick Shooter",
   "resources":[
+    {"id":{"name":"obj_GreyWallTorchTile","path":"objects/obj_GreyWallTorchTile/obj_GreyWallTorchTile.yy",},},
     {"id":{"name":"obj_RedBlock","path":"objects/obj_RedBlock/obj_RedBlock.yy",},},
+    {"id":{"name":"obj_WallTile","path":"objects/obj_WallTile/obj_WallTile.yy",},},
     {"id":{"name":"obj_WhiteBlock","path":"objects/obj_WhiteBlock/obj_WhiteBlock.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_GreyWallTile","path":"sprites/spr_GreyWallTile/spr_GreyWallTile.yy",},},
+    {"id":{"name":"spr_GreyWallTorchTile","path":"sprites/spr_GreyWallTorchTile/spr_GreyWallTorchTile.yy",},},
     {"id":{"name":"spr_RedBlock","path":"sprites/spr_RedBlock/spr_RedBlock.yy",},},
     {"id":{"name":"spr_WhiteBlock","path":"sprites/spr_WhiteBlock/spr_WhiteBlock.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
