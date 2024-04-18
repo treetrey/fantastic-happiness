@@ -1,5 +1,4 @@
 /// Moving the View
-
 #region
 halfViewWidth = camera_get_view_width(view_camera[0]) /2;
 halfViewHeight = camera_get_view_width(view_camera[0]) /2;

@@ -22,5 +22,12 @@ if place_meeting(x, y + _yinput, obj_WallTile)
 x += _xinput;
 y += _yinput;
 
+
 //Direction of the player
-my_dir = point_direction(0, 0, _xinput, _yinput);
+image_angle = point_direction(x, y, mouse_x, mouse_y);
+
+//Shooting the gun
+if (mouse_check_button_pressed(mb_left))
+{
+	instance_create_layer(x, y, layer, obj_TestBullet);
+}
