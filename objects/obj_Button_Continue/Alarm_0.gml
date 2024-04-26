@@ -4,5 +4,4 @@
 // Inherit the parent event
 event_inherited();
 
-
-room_goto(EnemyTestRoom);
+room_goto(Menu);

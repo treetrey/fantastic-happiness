@@ -24,6 +24,7 @@ function Check_For_Player(){
 	} else{
 		//are we close enough to attack?
 		if _dis <= attack_dis{
+			shootCooldown = 0;	
 			path_end();
 		}
 	}

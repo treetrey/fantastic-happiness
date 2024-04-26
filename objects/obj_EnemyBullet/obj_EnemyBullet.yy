@@ -1,15 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Player",
+  "%Name":"obj_EnemyBullet",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_EnemyBullet","path":"objects/obj_EnemyBullet/obj_EnemyBullet.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Player",
+  "name":"obj_EnemyBullet",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -34,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Player",
-    "path":"sprites/spr_Player/spr_Player.yy",
+    "name":"spr_EnemyBulletTest",
+    "path":"sprites/spr_EnemyBulletTest/spr_EnemyBulletTest.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,4 +1,10 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_Button_Continue","order":1,"path":"objects/obj_Button_Continue/obj_Button_Continue.yy",},
+    {"name":"obj_EnemyBullet","order":1,"path":"objects/obj_EnemyBullet/obj_EnemyBullet.yy",},
+    {"name":"GameOver","order":1,"path":"rooms/GameOver/GameOver.yy",},
+    {"name":"spr_EnemyBulletTest","order":2,"path":"sprites/spr_EnemyBulletTest/spr_EnemyBulletTest.yy",},
+    {"name":"spr_HealthBar","order":1,"path":"sprites/spr_HealthBar/spr_HealthBar.yy",},
+  ],
 }

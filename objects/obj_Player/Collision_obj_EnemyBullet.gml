@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-// Inherit the parent event
-event_inherited();
-
-
-room_goto(EnemyTestRoom);
+//take damage
+hp -=1;
+//effect
+flash = 1;
+//destroy bullet
+instance_destroy(other);
